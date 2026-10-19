@@ -1,6 +1,6 @@
-# Cardinality-Constrained Portfolio Optimisation — TFG Research
+# Cardinality-Constrained Portfolio Optimisation
 
-Research code for my bachelor's thesis (TFG). It compares metaheuristics for **cardinality-constrained mean-variance portfolio selection** (10–14 assets out of 47 stocks), evaluated with a rolling multi-period backtest on weekly data.
+Research code. It compares metaheuristics for **cardinality-constrained mean-variance portfolio selection** (10–14 assets out of 47 stocks), evaluated with a rolling multi-period backtest on weekly data.
 
 ## Algorithms
 
